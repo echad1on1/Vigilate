@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1306" height="816" alt="cardash" src="https://github.com/user-attachments/assets/a824bd65-ecb1-4dc0-be11-d5835b4cb370" />
+  <img src="docs/images/logo.png" width="120" alt="Vigilate logo">
 </p>
 
 <h1 align="center">Vigilate</h1>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/images/concept/golf2-own-hero.jpg" width="860" alt="Vigilate on the dashboard of a VW Golf Mk2">
+  <img width="1306" height="816" alt="cardash" src="https://github.com/user-attachments/assets/a824bd65-ecb1-4dc0-be11-d5835b4cb370" />
 </p>
 
 ---
