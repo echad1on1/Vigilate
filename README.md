@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/logo.png" width="120" alt="Vigilate logo">
+  <img width="1306" height="816" alt="cardash" src="https://github.com/user-attachments/assets/a824bd65-ecb1-4dc0-be11-d5835b4cb370" />
 </p>
 
 <h1 align="center">Vigilate</h1>
@@ -96,9 +96,6 @@ A small round screen in a solid casing that sits on top of your dashboard. Two f
 </tr>
 </table>
 
-<p align="center">
-  <img src="docs/images/concept/golf2-own-hero-steel.jpg" width="860" alt="The stainless steel Vigilate on a Golf Mk2 dashboard">
-</p>
 
 ---
 
